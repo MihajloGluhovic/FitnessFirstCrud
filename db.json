@@ -1,0 +1,81 @@
+{
+  "enquiry": [
+    {
+      "firstName": "Mij",
+      "lastName": "Ajlo",
+      "email": "mejl@g",
+      "mobile": "065771787",
+      "weight": 85,
+      "height": 1.85,
+      "bmi": 24.835646457268076,
+      "bmiResult": "Normal",
+      "gender": "Female",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Toxic Fat Reduction",
+        "Energy and endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System",
+        "Sugar Craving Body",
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-12-04T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "d",
+      "lastName": "2",
+      "email": "d",
+      "mobile": "33",
+      "weight": 2,
+      "height": 3,
+      "bmi": 0.2222222222222222,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Yearly",
+      "important": [
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2023-12-21T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "weight": null,
+      "height": null,
+      "bmi": null,
+      "bmiResult": null,
+      "gender": null,
+      "requireTrainer": null,
+      "package": null,
+      "important": null,
+      "haveGymBefore": null,
+      "enquiryDate": null,
+      "id": 3
+    },
+    {
+      "firstName": null,
+      "lastName": null,
+      "email": null,
+      "mobile": null,
+      "weight": null,
+      "height": null,
+      "bmi": null,
+      "bmiResult": null,
+      "gender": null,
+      "requireTrainer": null,
+      "package": null,
+      "important": null,
+      "haveGymBefore": null,
+      "enquiryDate": null,
+      "id": 4
+    }
+  ]
+}
