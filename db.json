@@ -1,30 +1,6 @@
 {
   "enquiry": [
     {
-      "firstName": "Mij",
-      "lastName": "Ajlo",
-      "email": "mejl@g",
-      "mobile": "065771787",
-      "weight": 85,
-      "height": 1.85,
-      "bmi": 24.835646457268076,
-      "bmiResult": "Normal",
-      "gender": "Female",
-      "requireTrainer": "Yes",
-      "package": "Yearly",
-      "important": [
-        "Toxic Fat Reduction",
-        "Energy and endurance",
-        "Building Lean Muscle",
-        "Healthier Digestive System",
-        "Sugar Craving Body",
-        "Fitness"
-      ],
-      "haveGymBefore": "No",
-      "enquiryDate": "2023-12-04T23:00:00.000Z",
-      "id": 1
-    },
-    {
       "firstName": "d",
       "lastName": "2",
       "email": "d",
@@ -44,37 +20,41 @@
       "id": 2
     },
     {
-      "firstName": null,
-      "lastName": null,
-      "email": null,
-      "mobile": null,
-      "weight": null,
-      "height": null,
-      "bmi": null,
-      "bmiResult": null,
-      "gender": null,
-      "requireTrainer": null,
-      "package": null,
-      "important": null,
-      "haveGymBefore": null,
-      "enquiryDate": null,
+      "firstName": "Glorija",
+      "lastName": "Gluhovic",
+      "email": "ddddd@glorija.com",
+      "mobile": "03030300330",
+      "weight": 60,
+      "height": 1.7,
+      "bmi": 20.761245674740486,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Fitness"
+      ],
+      "haveGymBefore": "Yes",
+      "enquiryDate": "2017-12-14T23:00:00.000Z",
       "id": 3
     },
     {
-      "firstName": null,
-      "lastName": null,
-      "email": null,
-      "mobile": null,
-      "weight": null,
-      "height": null,
-      "bmi": null,
-      "bmiResult": null,
-      "gender": null,
-      "requireTrainer": null,
-      "package": null,
-      "important": null,
-      "haveGymBefore": null,
-      "enquiryDate": null,
+      "firstName": "Niko",
+      "lastName": "Belic",
+      "email": "dddd3232",
+      "mobile": "54325432",
+      "weight": 33,
+      "height": 1,
+      "bmi": 33,
+      "bmiResult": "Obese",
+      "gender": "Male",
+      "requireTrainer": "No",
+      "package": "Yearly",
+      "important": [
+        "Sugar Craving Body"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-12-21T23:00:00.000Z",
       "id": 4
     }
   ]

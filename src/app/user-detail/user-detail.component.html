@@ -1,1 +1,63 @@
-<p>user-detail works!</p>
+<mat-card *ngIf="userDetail" class="example-card">
+  <mat-card-header>
+    <div mat-card-avatar class="example-header-image"></div>
+    <mat-card-title
+      >{{ userDetail.firstName }} {{ userDetail.lastName }}</mat-card-title
+    >
+    <mat-card-subtitle>{{
+      userDetail.email
+    }}</mat-card-subtitle> </mat-card-header
+  ><mat-card-content>
+    <mat-list>
+      <mat-list-item>
+        <div matLine>
+          Mobile Number : {{ userDetail.mobile }}
+          <button mat-button></button>
+        </div>
+      </mat-list-item>
+
+      <mat-list-item>
+        <div matLine>
+          Gender : {{ userDetail.gender }}
+          <button mat-button></button>
+        </div>
+      </mat-list-item>
+      <mat-list-item>
+        <div matLine>
+          Package : {{ userDetail.package }}
+          <button mat-button></button>
+        </div>
+      </mat-list-item>
+      <mat-list-item>
+        <div matLine>
+          BMI : {{ userDetail.bmi }}
+          <button mat-button></button>
+        </div>
+      </mat-list-item>
+      <mat-list-item>
+        <div matLine>
+          BMI Result : {{ userDetail.bmiResult }}
+          <button mat-button></button>
+        </div>
+      </mat-list-item>
+      <mat-list-item>
+        <div matLine>
+          Trainer Require : {{ userDetail.requireTrainer }}
+          <button mat-button></button>
+        </div>
+      </mat-list-item>
+      <mat-list-item>
+        <div matLine>
+          Goals :
+          <button mat-button>
+            <mat-chip-listbox>
+              <ng-container *ngFor="let row of userDetail.important">
+                <mat-chip-option selected>{{ row }}</mat-chip-option>
+              </ng-container>
+            </mat-chip-listbox>
+          </button>
+        </div>
+      </mat-list-item>
+    </mat-list>
+  </mat-card-content>
+</mat-card>
