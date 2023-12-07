@@ -1,61 +1,42 @@
 {
   "enquiry": [
     {
-      "firstName": "d",
-      "lastName": "2",
-      "email": "d",
-      "mobile": "33",
-      "weight": 2,
-      "height": 3,
-      "bmi": 0.2222222222222222,
-      "bmiResult": "Underweight",
-      "gender": "Male",
-      "requireTrainer": "Yes",
-      "package": "Yearly",
-      "important": [
-        "Fitness"
-      ],
-      "haveGymBefore": "Yes",
-      "enquiryDate": "2023-12-21T23:00:00.000Z",
-      "id": 2
-    },
-    {
-      "firstName": "Glorija",
+      "firstName": "Mihajlo",
       "lastName": "Gluhovic",
-      "email": "ddddd@glorija.com",
-      "mobile": "03030300330",
-      "weight": 60,
-      "height": 1.7,
-      "bmi": 20.761245674740486,
+      "email": "mihajlogluhovic@gmail.com",
+      "mobile": "065111000",
+      "weight": 84,
+      "height": 1.86,
+      "bmi": 24.280263614290668,
       "bmiResult": "Normal",
       "gender": "Male",
-      "requireTrainer": "Yes",
+      "requireTrainer": "No",
       "package": "Monthly",
       "important": [
-        "Fitness"
+        "Energy and endurance",
+        "Building Lean Muscle",
+        "Healthier Digestive System"
       ],
       "haveGymBefore": "Yes",
-      "enquiryDate": "2017-12-14T23:00:00.000Z",
-      "id": 3
+      "enquiryDate": "2023-12-05T23:00:00.000Z",
+      "id": 1
     },
     {
-      "firstName": "Niko",
-      "lastName": "Belic",
-      "email": "dddd3232",
-      "mobile": "54325432",
-      "weight": 33,
-      "height": 1,
-      "bmi": 33,
-      "bmiResult": "Obese",
-      "gender": "Male",
-      "requireTrainer": "No",
+      "firstName": "Milica",
+      "lastName": "Markov",
+      "email": "milicamarkov@gmail.com",
+      "mobile": "06512121212",
+      "weight": 80,
+      "height": 1.75,
+      "bmi": 26.122448979591837,
+      "bmiResult": "Overweight",
+      "gender": "Female",
+      "requireTrainer": "Yes",
       "package": "Yearly",
-      "important": [
-        "Sugar Craving Body"
-      ],
+      "important": ["Toxic Fat Reduction", "Sugar Craving Body"],
       "haveGymBefore": "No",
-      "enquiryDate": "2023-12-21T23:00:00.000Z",
-      "id": 4
+      "enquiryDate": "2023-12-09T23:00:00.000Z",
+      "id": 2
     }
   ]
 }
